@@ -664,10 +664,10 @@
       attrs.field_options.options = [
         {
           label: "",
-          checked: false
+          checked: true
         }, {
           label: "",
-          checked: false
+          checked: true
         }
       ];
       return attrs;
